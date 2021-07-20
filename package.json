@@ -10,7 +10,7 @@
     "object-assign": "^4.1.1",
     "prop-types": "^15.7.2",
     "react": "16.8.3",
-    "react-native": "0.59.10",
+    "react-native": "0.62.3",
     "react-native-chatbot": "0.0.1-alpha.12",
     "react-native-webview": "^5.12.1",
     "styled-components": "^4.3.2"
